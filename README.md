@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy Sergio Wellmann 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Ingeniero+en+Sistemas+(Estudiante);Estudiante+en+Platzi;Explorando+el+mundo+del+desarrollo+web" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Ingeniero+en+Sistemas+(Estudiante);Estudiante+en+Platzi;Explorando+el+mundo+del+desarrollo+web" alt="Typing SVG" />
 </p>
 
 ## Hi there 👋
@@ -34,7 +34,6 @@
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SergioW25&theme=radical" />
 </p>
-
 
 ### 🤝 Conectemos
 <p align="left">
